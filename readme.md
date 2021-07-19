@@ -1,6 +1,6 @@
 # Human Money
 
-The idea behind new money is to treat money as a social system. they money supply can be seen as 1 unit which never changes. each individual can have a portion of that unit. How much? that is determined by how much everyone thinks they deserve. Money therefore, in this scheme is not a unit of account, but an idication of social credit. With it you determine the relative credit of any other account.
+The idea behind Human Money is to treat money as a social system. they money supply can be seen as 1 unit which never changes. each individual can have a portion of that unit. How much? that is determined by how much everyone thinks they deserve. Money therefore, in this scheme is not a unit of account, but an idication of social credit. With it you determine the relative credit of any other account.
 
 ## requirements
 
