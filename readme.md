@@ -16,6 +16,7 @@ Human Money offers an additional approach: provide a concept of money as direct 
 
 The idea may be met with skepticism which a discerning view of money and credit may serve to mitigate.
 
+
 ## Philosophy of Money and Credit
 
 Traditional money, be it Gold, the Dollar, or Bitcoin represents human labor because human labor is the primary unit of control over the environment. That is, they are essentially 'backed by' the ability to control changes in the environment and most of those changes are brought about by human action: labor. Money will always represent control in some form or another, as it is the expression of attention.
