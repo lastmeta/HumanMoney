@@ -108,7 +108,7 @@ Nobody wants to see "you have 0.000000001% of all the voting power" and nobody w
 
 #### Freezing Accounts
 
-To disincentivizing the hording of accounts (identities) the group ought to be able to come to consensus on which accounts to punish. They can do so directly with voting: that is they can constanty expend their voting power in an effort to vote down the value of accounts held by the same individual. 
+To disincentivizing the hording of accounts (identities) the group ought to be able to come to consensus on which accounts to punish. They can do so directly with voting: that is they can constantly expend their voting power in an effort to vote down the value of accounts held by the same individual. 
 
 However, that's probably not a reliable homeostatic mechansim for two reasons. Firstly, vigilantes are always in the minority in any group. Secondly, as we've seen the system has the natural ability to apply excess votes across the board. This has the natural tendancy to increasing value of the accounts of those that have been voted below the median: essentailly guaranteeing those that horde accounts to enjoy a dispropotionate advantage.
 
@@ -116,11 +116,11 @@ To combat this the community must have some way of identifying, manually, accoun
 
 The account can still be voted up manually, but can't approach the median naturally as everyone else does.
 
-This should serve to incentivize the sale of the account before it's frozen by the community. The accounts that gets frozen can be unfrozen, hopefully upon evidence that the account belongs to an actual, separate new individual, we want the number of individuals in the community to grow as the number of accounts grow to approximate the ideal of one account per human life.
+This should serve to incentivize the sale of the account before it's frozen by the community. The account that gets frozen can be unfrozen, hopefully upon evidence that the account belongs to an actual, separate new individual, we want the number of individuals in the community to grow as the number of accounts grow to approximate the ideal of one account per human life.
 
 Unfortunately, this is a tricky mechanism to engineer because it is prone to weaponization if it is implemented incorrectly. Making it too easy to freeze accounts and innocent people will be punished. Make it too hard to freeze accounts and everyone suffers from rent seekers.
 
-Just because it was designed as a homeostatic mechansim does not mean it will be used solely for that purpose.
+Just because it was designed as a homeostatic mechanism does not mean it will be used solely for that purpose.
 
 I have no implemenetation details about this mechanic. It might be tricky, but the alternative of doing nothing means the network has virtually no recourse against those that openly horde multiple accounts and that makes the system as a whole much less valuable. This problem must be dealt with as it is a tragedy of the commons issue.
 
@@ -128,7 +128,7 @@ I have no implemenetation details about this mechanic. It might be tricky, but t
 
 Accounts themselves are valuable since they are scarce. As a hot commodity people will attempt to horde them. No one entity can be allowed to gain a monopoly of accounts. Being created randomly it will essentially centralize the system. 
 
-There needs to be a safeguard against this, controlled by the majority of accounts. They must have the ability not only to freeze accounts at a low value, but must be able to recycle accounts all together, essentially rendering the otherwise potentially large investment into hording account worthless.
+There needs to be a safeguard against this, controlled by the majority of accounts. They must have the ability not only to freeze accounts at a low value, but must be able to recycle accounts all together, essentially rendering the otherwise potentially large investment required to horde accounts worthless.
 
 Recycling means the account can be reclaimed by a new random individual.
 
@@ -140,18 +140,10 @@ Recycling and Freezing accounts serve as the two manual homeostatic controls and
 
 # Conclusion
 
-This is the people's money. This is Human money. This is money that can serve as a stipend for living as it monitizes the vote. It's market-derived, distributed, decentralized, universal basic income, or as close as we can currently get the free market to come to it. As automation comes online and the value of human labor drops we need a solution beyond centralized control, beyond inflation, beyond charity that helps us redistribute the wealth of that automation. Modeling money after democratized citizenship - you have value just by being a member of the group: you have a vote... seems like the most direct way to automatically distribute purchasing power back to those that need it. It is breathing. The economy is alive.
+The idea behind Human Money is to treat money as a purely social rating system. The money supply can be seen as one unit which never changes. Each individual can have a portion of that unit. How much? That is determined by how much everyone thinks they deserve. Money therefore, in this scheme is not a unit of account, but an idication of social credit. With it you determine the relative credit of any other account.
 
+Human Money is an attempt to "monetize the vote" or "model the vote as a currency" or "instanteate the pure idea that everyone 'owns' their own voice as a decentralized autonomous organization." A currency representing the vote is therefore fundamentally different than traditional currencies because in order to keep the mass average of individuals soverign it must have built within it resistences to the aggregation of power.
 
+This requires that it is not a store of value, because one cannot store it up. Instead it must mirror the group's current evaluation of an individual's voice. This does not mean there can be no variation in the strength of that voice, it merely means one cannot store that strength be used at a later date like one can with traditional currencies.
 
-#### Other notes...
-
-to "monetize the vote" or "model the vote as a currency" or "instanteate the pure idea that everyone 'owns' their own voice as a decentralized autonomous organization." A currency representing the vote is therefore fundamentally different than traditional currencies because in order to keep the mass average of individuals soverign it must have built within it resistences to the aggregation of power.
-
-This requires that it is not a store of value, because one cannot store it up. Instead it must mirror the group's current evaluation of an indiviual's voice. This does not mean there can be no variation in the strength of that voice, it merely means one cannot store that strength be used at a later date like one can with traditional currencies.
-
-The idea behind Human Money is to treat money as a purely social rating system. they money supply can be seen as 1 unit which never changes. each individual can have a portion of that unit. How much? that is determined by how much everyone thinks they deserve. Money therefore, in this scheme is not a unit of account, but an idication of social credit. With it you determine the relative credit of any other account.
-
-Money represents control and we have so far lived in a world where control over one's labor was a valuable commodity but that world is coming to an abrupt close. As it does, perhaps we should redefine money in terms of arbitrary decree, in terms of the vote, rather than labor.
-
-Identity - accounts need to be mostly distributed. and each account needs to be known by all other accounts. Bitcoin does not have this poperty because anyone can produce a valid address cheaply. The simplest way to achieve this requirement is to have the system be administered from a centralized powerful authority, however, the simplest way to do it in a decentralized maner may be to merely allow each account created to have an equal chance to create any sucessive account and have a scheme of how quickly they're allowed to do this baked into the protocol. That way accounts remain a scarce resource and are therefore sold or gifted as they are generated.
+This is the people's money. This is Human money. This is money that can serve as a stipend for living as it monitizes the vote. It's market-derived, distributed, decentralized, universal basic income, or as close as we can currently get the market to come to it. As automation comes online and the value of human labor drops we need a solution beyond centralized control, beyond inflation, beyond charity that helps us redistribute the wealth of that automation. Modeling money after democratized citizenship - you have value just by being a member of the group: you have a vote. Perhaps it is the most direct way to automatically distribute purchasing power back to those that need it. It is the alternative breath the economy.
