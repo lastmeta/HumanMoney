@@ -88,7 +88,7 @@ This looks like Proof of Stake in that those that have voting power can vote the
 
 We don't want any one, or any group to be able to acquire all the voting power because we want the average person, the median account, to have a valuable say. So we combat centralization in the protocol itself.
 
-This is easy to do, we merely cap the amount of voting power accounts can receieve and anything above that cap gets distributed proportionately to all other votes. The ideal cap probably looks something like this: no group, numbering 1/3rd of the total number of accounts can have more than 50% of the voting power.
+This is easy to do, we merely cap the amount of voting power accounts can receieve and anything above that cap gets distributed proportionately to all other votes. The ideal cap probably looks something like this: no group, numbering 1/3 of the total number of accounts can have more than 50% of the voting power.
 
 ### Limitations and Redistirbutions
 
