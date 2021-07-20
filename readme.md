@@ -29,7 +29,7 @@ Owership is largely a human contstruct, and a redefinable one. A prime example o
 
 Human Money is an attempt to instantiated a pure vote currency: one where individuals choose how much weight every other individual should have.
 
-## requirements
+## Unique Differences
 
 A vote currency is fundamentally different than a traditional currency in a few key aspects, and has certain characteristics that traditional currencies don't have.
 
@@ -138,7 +138,7 @@ One may say, but if there is a large entity they will have the ability the recyc
 
 Recycling and Freezing accounts serve as the two manual homeostatic controls and are the trickiest to implement and execute on.
 
-# Conclusion
+## Conclusion
 
 The idea behind Human Money is to treat money as a purely social rating system. The money supply can be seen as one unit which never changes. Each individual can have a portion of that unit. How much? That is determined by how much everyone thinks they deserve. Money therefore, in this scheme is not a unit of account, but an idication of social credit. With it you determine the relative credit of any other account.
 
