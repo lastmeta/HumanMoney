@@ -27,7 +27,7 @@ In the current world, the average individual has little to no voting power. Most
 
 Owership is largely a human contstruct, and a redefinable one. A prime example of this is the idea of the vote. The democratic group explicitly and arbitrarily gives the individual a voice in determining the activity and evolution of the group. The vote is something the individual owns by merit of being a part of the group. 
 
-Human Money is an attempt to instanteate a pure vote currency: one where individuals choose how much weight every other individual should have.
+Human Money is an attempt to instantiated a pure vote currency: one where individuals choose how much weight every other individual should have.
 
 ## requirements
 
@@ -65,7 +65,7 @@ In defining who gets to create a new account, we run into the quintessential pro
 
 Seeing as how proof of work was originally framed as a solution to centralization of power to create blocks we can merely define a scheme which approximates it's state goal: randomly distribute new accounts, not by working to find a random solution, but by agreeing on the random solution ahead of time.
 
-Imagine Human Money is instanteated as a blockchain protocol. This is for explanitory purpose only, any other DLT has an analogous solution. Each block has a hash which can be read as a certain very large number. Each address representing an account can also be read as a large number. The blockhash can be used to deterministically, and randomly choose the creator of the next account by essentially choosing the address closest on the numberline to the blockhash. 
+Imagine Human Money is instantiated as a blockchain protocol. This is for explanitory purpose only, any other DLT has an analogous solution. Each block has a hash which can be read as a certain very large number. Each address representing an account can also be read as a large number. The blockhash can be used to deterministically, and randomly choose the creator of the next account by essentially choosing the address closest on the numberline to the blockhash. 
 
 One implementation of Proof of Random can be engineered thusly:
   - preappend the latest blockhash to each of the existing set of addresses and hash them (to randomize the space addresses to remove the ability to game the system)
