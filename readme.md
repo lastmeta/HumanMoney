@@ -10,7 +10,7 @@ In short, as human labor becomes valueless, mankind must find other avenues to r
 
 For example one solution is for automated companies to distribute profits to their customers. This is essentially charity and gives the companies a large degree of power.
 
-Another possible soltion is direct payments to consumers as inflation to the existing money supply. This solution is centralized redistribution and may not be sustainable as governments lose their monopoly on money.
+Another possible solution is direct payments to consumers as inflation to the existing money supply. This solution is centralized redistribution and may not be sustainable as governments lose their monopoly on money.
 
 Human Money offers an additional approach: provide a concept of money as direct and immediate control over who has money. That is to say, redistribute purchasing power through voting with some very hard automatic limits to keep the median account (the average person) sufficiently replenished.
 
@@ -23,12 +23,9 @@ Traditional money, be it Gold, the Dollar, or Bitcoin represents human labor bec
 
 As a simplification the ability to enact changes to the environment (be it the physical environment, social instittions, or what have you) come in two flavors: decreed and strenuous. That is, a polititian has power to effect changes in the environment by decree, a farmer effects changes to the environment through strenuous activity. Decree is voting power, strenuous activity is labor.
 
-Sidebar:
-Civilizations' current definition of ownership, too, can endow anyone with income from voting power: a landlord earns his money largely through decree as he has the owership power to decree current tennents unfit to abide in his property.
+In the current world, the average individual has little to no voting power. Most people are not in positions of power, most people do not own assets which the communal definition of ownership (private property) allows them to control by decree (to extract rents). Rather, most people are laborers, who's production of the labor commodity will be valuless in a matter of decades (as it will approach the cost of electricity due to automation). For the last time, humans cannot compete with even moderately intelligent machines.
 
-In the current world, the average individual has little to no voting power. Most people are not in positions of power, most people do not own assets which the communal definition of ownership (private property) allows them to control by decree (to extract rents). Rather, most people are laborers, whos' production of the labor commodity will be valuless in a matter of decades (as it will approach the cost of electricity due to automation). For the last time, humans cannot compete with even moderately intelligent machines.
-
-Owership is largely a human contstruct, and a redefinable one. A prime example of this is the idea of the vote. The democratic group explicitly and arbitrarily gives the individual a voice in determining the activity and evolution of the group. The vote is something the individual owns by merit of being a part of the group. The group doesn't need to provide the vote, and the individual doesn't need to be a part of the group. It is a mutual covenant. Individuals prefer groups that give them more control, and groups prefer individuals that use control wisely.
+Owership is largely a human contstruct, and a redefinable one. A prime example of this is the idea of the vote. The democratic group explicitly and arbitrarily gives the individual a voice in determining the activity and evolution of the group. The vote is something the individual owns by merit of being a part of the group. 
 
 Human Money is an attempt to instanteate a pure vote currency: one where individuals choose how much weight every other individual should have.
 
@@ -38,8 +35,8 @@ A vote currency is fundamentally different than a traditional currency in a few 
 
 As a quick rundown of the differences: 
   1. The currency of Human Money is not expressed as a number of units, but instead as a percentage of total control which, of course never changes.
-  2. The value of any account fluxuates according to the sentament of the group (it is not a store of value). This is not true of bitcoin - if you control 100 bitcoins today, and do nothing, you will control 100 bitcoins tomorrow.
-  3. All accounts must be known by all other accounts, therefore they are scarce by definition. This is not true of bitcoin - anyone can produce as many valid addresses as they like.
+  2. The value of any account fluxuates according to the sentament of the group (it is not a store of value). This is not true of Bitcoin - if you control 100 bitcoins today, and do nothing, you will control 100 bitcoins tomorrow.
+  3. All accounts must be known by all other accounts, therefore they are scarce by definition. This is not true of Bitcoin - anyone can produce as many valid addresses as they like.
   4. Because accounts are scarce they approximately a concept approaching identity. Identity in Bitcoin, where it exists at all, must be a layer two citizen, not enforced by the base protocol.
   5. Reputation is a natural outcome of identity. 
 
@@ -66,7 +63,7 @@ Some sort of schedule of account creation must be defined. A schedule that appro
 
 In defining who gets to create a new account, we run into the quintessential problem faced by blockchain: proof of work, or proof of stake?
 
-Seeing as how proof of work was originally framed as a soltion to centralization of power to create blocks we can merely define a scheme which approximates it's state goal: randomly distribute new accounts, not by working to find a random solution, but by agreeing on the random solution ahead of time.
+Seeing as how proof of work was originally framed as a solution to centralization of power to create blocks we can merely define a scheme which approximates it's state goal: randomly distribute new accounts, not by working to find a random solution, but by agreeing on the random solution ahead of time.
 
 Imagine Human Money is instanteated as a blockchain protocol. This is for explanitory purpose only, any other DLT has an analogous solution. Each block has a hash which can be read as a certain very large number. Each address representing an account can also be read as a large number. The blockhash can be used to deterministically, and randomly choose the creator of the next account by essentially choosing the address closest on the numberline to the blockhash. 
 
@@ -83,6 +80,8 @@ Like any traditional money Human money has a currency, a representation of value
 
 To reiterate, what can you do with the vote? One thing: say how much voting power everyone else should have. To do so you issue a transaction which says, in common parlance, "using x% of my own voting power, I vote for this account to increase in voting power." Unaccounted for voting power can act as an implicit vote for the self.
 
+The treating the vote like currency means the real currency is the vote expended overtime. It is actaully coinage that is the true currency and that cannot be stored, it must be spent as it is created.
+
 ### Limitations on Voting Power
 
 This looks like Proof of Stake in that those that have voting power can vote themselves up disproportionately. It would be, were it not for an additional protocol-level mutation that takes place after the votes have been cast.
@@ -95,13 +94,13 @@ This is easy to do, we merely cap the amount of voting power accounts can receie
 
 This does not entirely guarantee that bad actors won't succeed in colluding with one another to gain power, but it makes it far less likely if the accounts are somewhat evenly distributed. This means the largest entity is superiorally limited in its ability to aggregate voting power, it cannot use its power to vote itself up, beyond a certain point. If it does so, excess above the cap gets distributed to everyone.
 
-Therefore, there is always a constant natural redistribution of value down to the very smallest account. the median account remains replenished therefore and can possibly use it's voting power to pay for realworld products on a continual basis. Producers can pay for the inputs to their products in the same manner and whichever layer becomes the aggregator of value, be it the retailer, the manufacturer, or the commodity miner, has a limit to their growth at any given moment. The largest accounts are constanly getting depleted and returning voting power to the consumer: they remain beholden to their consumers.
+Therefore, there is always a constant natural redistribution of value down to the very smallest account. The median account remains replenished therefore and can possibly use it's voting power to pay for realworld products on a continual basis. Producers can pay for the inputs to their products in the same manner and whichever layer becomes the aggregator of value, be it the retailer, the manufacturer, or the commodity miner, has a limit to their growth at any given moment. The largest accounts are constanly getting depleted and returning voting power to the consumer: they remain beholden to their consumers.
 
 Currency is not a store of value here. We cannot aggregate it over time. Yet it remains a current accounting of how much the group appreciates you; or rather, which producers the consumers appreciate.
 
 ### Currency Representation
 
-Representing the vote as currency means the currency is not an integer. It's not a unit, it's a percentage. For example you may have 0.000000001% of all the voting power that the group has (which is always 1 unit or 100%). 
+Representing the vote as currency means the currency is not an integer. It's not a unit, it's a percentage. For example you may have 0.000000001% of all the voting power that the group has (which is always 1 unit or 100%).
 
 #### Account Display
 
@@ -119,7 +118,7 @@ The account can still be voted up manually, but can't approach the median natura
 
 This should serve to incentivize the sale of the account before it's frozen by the community. The accounts that gets frozen can be unfrozen, hopefully upon evidence that the account belongs to an actual, separate new individual, we want the number of individuals in the community to grow as the number of accounts grow to approximate the ideal of one account per human life.
 
-Unfortunately, this is a tricky mechanism to engineer because it is prone to weaponization if it is implemented incorrectly. Making it too easy to freeze accounts and innocent people will be punished. Make it too hard to freeze accounts and everyone suffers from rent seeking leaches.
+Unfortunately, this is a tricky mechanism to engineer because it is prone to weaponization if it is implemented incorrectly. Making it too easy to freeze accounts and innocent people will be punished. Make it too hard to freeze accounts and everyone suffers from rent seekers.
 
 Just because it was designed as a homeostatic mechansim does not mean it will be used solely for that purpose.
 
