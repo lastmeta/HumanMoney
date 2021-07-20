@@ -74,21 +74,25 @@ One implementation of Proof of Random can be engineered thusly:
 
 This Proof of Random scheme may look like proof of stake since a single individual can have multiple accounts. I know of no homeostatic solution to that problem other than to allow the majority to recycle accounts suspected to be horded by the same individual (see recycling accounts below).
 
-### The Value of the Vote as Currency
+### Vote as Currency
 
 Like any traditional money Human money has a currency, a representation of value. Unlike traditional currency one does not send it to someone else, instead one uses it to vote on how much power should be given to or taken away from others.
 
 To reiterate, what can you do with the vote? One thing: say how much voting power everyone else should have. To do so you issue a transaction which says, in common parlance, "using x% of my own voting power, I vote for this account to increase in voting power." Unaccounted for voting power can act as an implicit vote for the self.
 
-The treating the vote like currency means the real currency is the vote expended overtime. It is actaully coinage that is the true currency and that cannot be stored, it must be spent as it is created.
+### The Value of the Vote
+
+In traditional currencies payments consist of debits and credits. If Alice sends Bob a bitcoin Alice loses a bitcoin. The vote is different: you don't lose it by casting it, because eventually you will be able to cast your vote again. In this way, the real currency is the vote over time. It is actaully coinage that is the true currency and that cannot be stored, it must be spent as it is created.
+
+Imagine, for example, you wish to expend your vote to increase the voting power of another account. You issue a transaction specifying a duration of time in the future during which a percentage of your voting power will be cast in the other accounts favor rather than any other account including implicitly your own.
 
 ### Limitations on Voting Power
 
-This looks like Proof of Stake in that those that have voting power can vote themselves up disproportionately. It would be, were it not for an additional protocol-level mutation that takes place after the votes have been cast.
+Voting power looks like Proof of Stake in that those that have voting power can vote themselves up disproportionately. This would be the case, were it not for an additional protocol-level mutation that takes place after the votes have been cast.
 
 We don't want any one, or any group to be able to acquire all the voting power because we want the average person, the median account, to have a valuable say. So we combat centralization in the protocol itself.
 
-This is easy to do, we merely cap the amount of voting power accounts can receieve and anything above that cap gets distributed proportionately to all other votes. The ideal cap probably looks something like this: no group, numbering 1/3 of the total number of accounts can have more than 50% of the voting power.
+This is easy to do, we merely cap the amount of voting power accounts can receieve and anything above that cap gets distributed proportionately to all other votes. The ideal cap can probably be expressed as a simple rule such as: no group, numbering 1/3 of the total number of accounts can have more than 50% of the voting power.
 
 ### Limitations and Redistirbutions
 
