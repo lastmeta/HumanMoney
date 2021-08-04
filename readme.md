@@ -146,7 +146,7 @@ Recycling and Freezing accounts serve as the two manual homeostatic controls and
 
 The idea behind Human Money is to treat money as a purely social rating system. The money supply can be seen as one unit which never changes. Each individual can have a portion of that unit. How much? That is determined by how much everyone thinks they deserve. Money therefore, in this scheme is not a unit of account, but an idication of social credit. With it you determine the relative credit of any other account.
 
-Human Money is an attempt to "monetize the vote" or "model the vote as a currency" or "instanteate the pure idea that everyone 'owns' their own voice as a decentralized autonomous organization." A currency representing the vote is therefore fundamentally different than traditional currencies because in order to keep the mass average of individuals soverign it must have built within it resistences to the aggregation of power.
+Human Money is an attempt to "monetize the vote" or "model the vote as a currency" or "instantiate the pure idea that everyone 'owns' their own voice as a decentralized autonomous organization." A currency representing the vote is therefore fundamentally different than traditional currencies because in order to keep the mass average of individuals soverign it must have built within it resistences to the aggregation of power.
 
 This requires that it is not a store of value, because one cannot store it up. Instead it must mirror the group's current evaluation of an individual's voice. This does not mean there can be no variation in the strength of that voice, it merely means one cannot store that strength be used at a later date like one can with traditional currencies.
 
