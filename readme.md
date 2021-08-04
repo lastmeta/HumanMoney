@@ -27,7 +27,7 @@ In the current world, the average individual has little to no voting power. Most
 
 Owership is largely a human contstruct, and a redefinable one. A prime example of this is the idea of the vote. The democratic group explicitly and arbitrarily gives the individual a voice in determining the activity and evolution of the group. The vote is something the individual owns by merit of being a part of the group. 
 
-Human Money is an attempt to instantiated a pure vote currency: one where individuals choose how much weight every other individual should have.
+Human Money is an attempt to instantiate a pure vote currency: one where individuals choose how much weight every other individual should have.
 
 ## Unique Differences
 
