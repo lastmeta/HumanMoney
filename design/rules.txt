@@ -1,0 +1,27 @@
+Layers:
+    network rules (consensus rules)...
+    Consensus Mechanism...
+    p2p protocols...
+    communication protocols...
+
+network/consensus rules:
+    1. every transaction is not a sending of value but a casting of vote:
+        a. it is a transaction to apply x% of one's voting power to increase or decrease the voting power of someone else over time.
+        b. it is a transaction specifying a length of time in the future, or indefinite (simpler, preferred case).
+    2. the vote gets applied and smoothed:
+        a. no group of accounts numbering less than x% (ex. 1/3rd) of the total can have more than y% (ex. 50%) amount of the vote.
+        b. excess voting power gets applied equally rather than according to the vote for all remaining accounts.
+    3. accounts can be recycled by the community: (for the purpose of recycling accounts that are horded)
+        a. the community, votes to decide on which account is allowed to be a vigilante. There are 40 vigilantes. each account is allowed one vote and can change their vote at will. 
+        b. the most popular 40 can claim to be a vigilante, if one does not answer the call, there are 39 vigilantes.
+        b. if a super majority of vigilante accounts decide to recycle an account it can be claimed by the genesis account or by the next block winner according to a majority of the vigilantes. The account's voting power is immediately distributed according to the mechanism above.
+        c. a maximum of 1 account can be recycled per block. It is a blockchain transaction.
+        d. vigilantes can also be voted out, through the mechanism of being able to vote to delist a vigilante which counts as a vote against them.
+
+Consensus Algorithm:
+    Blockchain could be used but might actually be unnecessary and introduce complexity we don't need, for example, who creates blocks? proof of work would not be used and no coinbase is provided. Although since all identities are known proof of random is possible, and the coinbase is a new identity so perhaps blockchain is nearly ideal...
+    Alternatively, the natural consensus algorithm seems ideal as it is literally the best option we have for scale, being the most efficient way to come to a consensus in a network where all identities are known. (The natural consensus algorithm is Hashgraph's Gossip about Gossip).
+    Therefore I suggest a hybrid approach. A Blockchain network comes to consensus on the list of identities (and their addresses), while a Natural consensus network handles all other transactions such as using the vote.
+    
+
+
